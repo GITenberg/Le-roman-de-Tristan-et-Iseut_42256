@@ -1,0 +1,33 @@
+_repo: Le-roman-de-Tristan-et-Iseut_42256
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42256-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bédier, Joseph
+    aliases:
+    - Bedier, Joseph
+    - Bédier, Charles Marie Joseph
+    birthdate: 1864
+    deathdate: 1938
+    gutenberg_agent_id: '5429'
+    url: http://www.gutenberg.org/2009/agents/5429
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_B%C3%A9dier
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2013-03-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42256'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tristan (Legendary character) -- Romances -- Adaptations'
+- !lcsh 'Arthurian romances -- Adaptations'
+- !lcc 'PQ'
+- !lcsh 'Iseult (Legendary character) -- Romances -- Adaptations'
+title: Le roman de Tristan et Iseut
+url: http://www.gutenberg.org/ebooks/42256
